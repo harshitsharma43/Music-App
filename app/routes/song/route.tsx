@@ -12,7 +12,7 @@ const apiData:any={
         {
             "_id": "66ce3279ae4e34acbcc10da9",
             "song": "https://musicplayersongs.s3.eu-north-1.amazonaws.com/Pehle_Bhi_Main.mp3",
-            "songName": "Pehle Bhi Main",
+            "songName": "Pehle Bhi Main Mila",
             "albumArt": "https://musicplayeralbumart.s3.eu-north-1.amazonaws.com/pehle_bhi_main.jpg"
         }
     ]
